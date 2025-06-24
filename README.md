@@ -25,6 +25,7 @@ I started with HTML and will later move on to *CSS, **JavaScript, and eventually
 ## 👨‍💻 Author
 
 *Amandeep Singh*
+
 Beginner Web Developer | Learning HTML, CSS, JavaScript & more 
 Each folder contains simple code examples based on what I’ve learned.
 
